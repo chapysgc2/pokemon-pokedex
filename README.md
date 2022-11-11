@@ -19,5 +19,6 @@ Fetch pokemons from this [API](https://pokeapi.co/)!
 - Be free to do micro-commits or long-commits. It is up to you. I want to see how you work :)
 - Libraries that must go into the project (you won't need anything else):
     - [axios](https://axios-http.com/)
+    - [native-base](https://nativebase.io/) or similar
 - The provided UI is optional, you can create it your own way (let your imagination flow, without wasting too much time!)
 - Create a pull request (with description) to finish the work
